@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title> ÍNDICE HTML </title>
+		<link rel="icon" type="image/png" href="../Materials/favicon.png">
+	        <audio src="../Materials/menu.mp3" autoplay loop> </audio>
+	</head>
+        <body>
+        	<style>
+                     body {
+			  background-image: url('../Materials/fondoindex.gif');
+			  background-repeat: no-repeat;
+			  background-attachment: fixed;
+			  background-size: 100% 100%;
+			}
+			</style>
+		<h1 style="color:red"> PAGINAS HTML </h1>
+		
+		<ol>
+			<li style="color:green">  <a style="color:blue" href="../Html/Contador.html"> Contador  </a>	</li> 	
+			<li style="color:green">  <a style="color:blue" href="">   </a>	</li>
+			<li style="color:green">  <a style="color:blue" href="">   </a>	</li>
+			<li style="color:green">  <a style="color:blue" href="">   </a>	</li>
+			<li style="color:green">  <a style="color:blue" href="">   </a>	</li>
+	
+		</ol>
+	    </body>
+</html>
